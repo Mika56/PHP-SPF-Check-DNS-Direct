@@ -13,11 +13,12 @@
         }
     ],
     "require": {
-        "php": ">7.4",
+        "php": ">=7.4",
         "mika56/spfcheck": "^2.0",
         "purplepixie/phpdns": "^2.0"
     },
     "require-dev": {
+        "ext-json": "*",
         "phpunit/phpunit": "^9.5"
     },
     "license": "MIT",
