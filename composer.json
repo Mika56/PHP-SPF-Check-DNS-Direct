@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "mika56/spfcheck": "^2.0",
+        "mika56/spfcheck": "^2.0 || ^3.0",
         "purplepixie/phpdns": "^2.0"
     },
     "require-dev": {
